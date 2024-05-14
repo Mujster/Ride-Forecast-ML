@@ -15,3 +15,4 @@ We apply Linear Regression using the sklearn library. After training the model, 
 
 ## Training Data
 [training_data](https://drive.google.com/drive/folders/1WldT3iLe9p9Yd1byN6RC_N9iiD3gtRiS?usp=drive_link)
+
